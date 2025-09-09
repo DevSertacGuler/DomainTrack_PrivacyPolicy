@@ -1,5 +1,5 @@
 Privacy Policy
-At Domain Track, we respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, disclose, and safeguard your data when you use our services.
+At mo_sh, we respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, disclose, and safeguard your data when you use our services.
 
 What Data Do We Collect?
 Our application collects a minimum amount of data necessary to provide our services. This data may include:
@@ -15,14 +15,16 @@ To Provide and Improve Services: To ensure the application runs smoothly, fix bu
 
 Analysis: To understand how the application is used, improve the user experience, and identify popular features.
 
+Advertising: We use Google Mobile Ads (AdMob) to display advertisements within our application. AdMob may collect and use your Advertising ID to provide personalized and targeted ads based on your interests. This helps us generate revenue to continue providing and improving the application.
+
 How Do We Protect Your Data?
 We take various security measures to ensure the safety of your data. We use encryption technologies during data transmission and implement firewalls and other measures to protect our servers from unauthorized access.
 
 Data Disclosure
-We do not sell, rent, or share your personal information with third parties without your consent, unless required by legal obligations or when it is necessary to share with trusted third-party service providers to provide our services.
+We do not sell, rent, or share your personal information with third parties without your consent, unless required by legal obligations or when it is necessary to share with trusted third-party service providers to provide our services. Your Advertising ID may be shared with our advertising partners, as described above.
 
 Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
 
 Contact
-If you have any questions or concerns about this Privacy Policy, please contact us at devsertacguler@gmail.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at [insert your contact information here].

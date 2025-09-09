@@ -1,0 +1,28 @@
+Privacy Policy
+At Domain Track, we respect your privacy and are committed to protecting your personal data. This policy explains how we collect, use, disclose, and safeguard your data when you use our services.
+
+What Data Do We Collect?
+Our application collects a minimum amount of data necessary to provide our services. This data may include:
+
+Personally Identifiable Information: (Add information here if you have a feature like login or account creation, otherwise, remove).
+
+Non-Personal Information: Your device model, operating system version, and application usage statistics (e.g., how often the application is opened).
+
+Why Do We Collect Your Data?
+We collect your data for the following purposes:
+
+To Provide and Improve Services: To ensure the application runs smoothly, fix bugs, and add new features.
+
+Analysis: To understand how the application is used, improve the user experience, and identify popular features.
+
+How Do We Protect Your Data?
+We take various security measures to ensure the safety of your data. We use encryption technologies during data transmission and implement firewalls and other measures to protect our servers from unauthorized access.
+
+Data Disclosure
+We do not sell, rent, or share your personal information with third parties without your consent, unless required by legal obligations or when it is necessary to share with trusted third-party service providers to provide our services.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
+
+Contact
+If you have any questions or concerns about this Privacy Policy, please contact us at devsertacguler@gmail.com.
